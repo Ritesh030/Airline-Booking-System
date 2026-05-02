@@ -1,0 +1,12 @@
+[submodule "Auth-Service"]
+	path = Auth-Service
+	url = https://github.com/Ritesh030/Auth-Service.git
+[submodule "Airline-Flight-And-Search-Service"]
+	path = Airline-Flight-And-Search-Service
+	url = https://github.com/Ritesh030/Airline-Flight-And-Search-Service.git
+[submodule "Airline-Booking-Service"]
+	path = Airline-Booking-Service
+	url = https://github.com/Ritesh030/Airline-Booking-Service.git
+[submodule "Reminder-Service"]
+	path = Reminder-Service
+	url = https://github.com/Ritesh030/Reminder-Service.git
